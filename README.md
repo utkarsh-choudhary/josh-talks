@@ -31,7 +31,13 @@ A simple task management application built with Next.js, Material UI, and TypeSc
 
 First, run the development server:
 
+
+first run npm install to download the dependencies first
+
+
 ```bash
+
+
 npm run dev
 # or
 yarn dev
