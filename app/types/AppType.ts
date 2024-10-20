@@ -74,4 +74,5 @@ export type AppType = {
         openConfirmationWindow: boolean;
         setOpenConfirmationWindow: React.Dispatch<React.SetStateAction<boolean>>;
     };
+    
 }

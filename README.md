@@ -1,5 +1,32 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+# Task Management App
+
+A simple task management application built with Next.js, Material UI, and TypeScript. This app allows users to add, edit, delete, and manage tasks with dynamic sorting by priority. It utilizes server-side rendering (SSR) for loading the initial list of tasks.
+
+## Features
+
+1. **Add a New Task**: Users can create a new task with a title, description, and priority (high, medium, low).
+2. **Edit a Task**: Users can update the title, description, and priority of existing tasks.
+3. **Mark Task as Completed**: Users can toggle the status of tasks between completed and pending.
+4. **Delete a Task**: Users can remove tasks from the list.
+5. **Sort Tasks**: Tasks are dynamically sorted by priority, with high priority tasks displayed at the top.
+6. **Responsive Design**: The app features a basic responsive design for optimal viewing on various devices.
+
+## Tech Stack
+
+- **Frontend**: Next.js, React, Material UI, TypeScript
+- **State Management**: Local state for managing tasks
+- **Styling**: Material UI for UI components and CSS for responsive design
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/utkarsh-choudhary/josh-talks.git
+   
+
 ## Getting Started
 
 First, run the development server:
